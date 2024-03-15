@@ -16,7 +16,7 @@ func main() {
 	var newCards deck = newDeckFromFile("test.txt")
 	newCards.print()
 	newCards.shuffle()
-	fmt.Println("\nTest\n")
+	fmt.Println("Test")
 	newCards.print()
 }
 
