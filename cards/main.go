@@ -19,8 +19,3 @@ func main() {
 	fmt.Println("Test")
 	newCards.print()
 }
-
-func newCard() string {
-	return "5 of Diamonds"
-
-}
